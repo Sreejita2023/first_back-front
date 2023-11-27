@@ -1,9 +1,9 @@
 # first_back-front
 
-#backend file terminal
+<div>backend file terminal</div>
 <div>npm i</div>
 <div>npm run dev</div>
 
-#frontend file terminal
+<div>frontend file terminal</div>
 <div>npm i</div>
 <div>npm run start</div>
